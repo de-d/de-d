@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 ### About Me
-🏠 I'm **Frontend Developer** living in **Krasnodar**
-⭐ I'm currently learning TypeScript and Vue
+🏠 I'm **Frontend Developer** living in **Krasnodar**.      
+⭐ I'm currently learning TypeScript and Vue.
 
 ### Languages and Tools:
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
