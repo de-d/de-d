@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### About Me
-🏠 I'm **Frontend Developer** living in **Krasnodar**.  
+🏠 I'm **Frontend Developer** living in **Krasnodar**
 ⭐ I'm currently learning TypeScript and Vue
 
 ### Languages and Tools:
