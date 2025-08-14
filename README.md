@@ -40,7 +40,7 @@
     <h3>Connect with me:</h3>  
     
 <a href="https://www.linkedin.com/in/ruslan-akhmedov-868684264/" target="_blank">![in-icon](/assets/icon-connect/linkedin.png)</a>
-<a href="https://t.me/aktoetosprosil" target="_blank">![tg-icon](/assets/icon-connect/tg.png)</a>
+<a href="https://t.me/etzheded" target="_blank">![tg-icon](/assets/icon-connect/tg.png)</a>
 <a href="https://krasnodar.hh.ru/resume/4839d4ffff0e802f920039ed1f7a524c4d317a" target="_blank">![hh-icon](/assets/icon-connect/hh.png)</a>
 <a href="mailto:etzheded@gmail.com" target="_blank">![mail-icon](/assets/icon-connect/mail.png)</a>
 </div>
